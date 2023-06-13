@@ -1,4 +1,4 @@
  public class Main {
     public static void main(String[] args)
-    {System.out.println("Привет кенты");}
+    {System.out.println("Mne tak po kaifu");}
 }
